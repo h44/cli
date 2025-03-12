@@ -1,0 +1,13 @@
+{
+  "name": "h44",
+  "version": "0.0.1",
+  "main": "index.js",
+  "description": "A secure tool for distributed, structured, data sharing and processing.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h44/cli.git"
+  },
+  "keywords": [],
+  "author": "dev@h44.io",
+  "license": "MIT"
+}
